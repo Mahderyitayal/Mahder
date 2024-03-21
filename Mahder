@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+h<!DOCTYPE html>
 <html>
 
 <head>
@@ -7,15 +7,17 @@
   <title>login page</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
-<h1>login</h1>
-<p>username</p>
-  <input>
-   <p>password</p>
-<input type="password">
-<button>login</button>
+
 <body>
-  Hello world
-  <script src="script.js"></script>
+  <h1>login page</h1>
+<p>username </p>
+<input type="text"id="username" name="username">
+  <p>password</p>
+<input type="password">
+  <button>login</button>
+  
+
+<script src="script.js"></script>
 </body>
 
 </html>
